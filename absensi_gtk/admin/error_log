@@ -1,0 +1,487 @@
+[30-Apr-2026 18:06:57 UTC] Total absensi hari ini: 0
+[30-Apr-2026 18:08:51 UTC] Total absensi hari ini: 0
+[30-Apr-2026 18:08:53 UTC] Total absensi hari ini: 0
+[30-Apr-2026 18:08:54 UTC] Total absensi hari ini: 0
+[30-Apr-2026 18:10:57 UTC] Total absensi di database: 2
+[30-Apr-2026 18:10:57 UTC] Total absensi hari ini (2026-04-30): 0
+[30-Apr-2026 18:10:57 UTC] Data absensi: Array
+(
+    [0] => Array
+        (
+            [id_absensi] => 1
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 3
+            [waktu_absen] => 2026-05-01 00:13:59
+            [foto_selfie] => selfie_20260501_001359_69f38dd718a1f.jpg
+            [lokasi_gps] => -7.859832,113.282982
+            [status] => hadir
+        )
+
+    [1] => Array
+        (
+            [id_absensi] => 2
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 1
+            [waktu_absen] => 2026-05-01 01:00:42
+            [foto_selfie] => selfie_20260501_010042_69f398ca0f9b9.jpg
+            [lokasi_gps] => -7.8595994,113.2827956
+            [status] => hadir
+        )
+
+)
+
+[30-Apr-2026 18:10:57 UTC] Stats hari ini: Array
+(
+    [hadir] => 0
+    [telat] => 0
+    [alfa] => 0
+    [total_absen] => 0
+    [unique_guru] => 0
+)
+
+[30-Apr-2026 18:10:57 UTC] Absensi per jam: Array
+(
+    [0] => Array
+        (
+            [jam_ke] => 1
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:40:00
+            [jumlah_absen] => 0
+        )
+
+    [1] => Array
+        (
+            [jam_ke] => 2
+            [jam_mulai] => 21:20:00
+            [jam_selesai] => 22:20:00
+            [jumlah_absen] => 0
+        )
+
+    [2] => Array
+        (
+            [jam_ke] => 3
+            [jam_mulai] => 00:00:00
+            [jam_selesai] => 01:00:00
+            [jumlah_absen] => 0
+        )
+
+    [3] => Array
+        (
+            [jam_ke] => 4
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:00:00
+            [jumlah_absen] => 0
+        )
+
+)
+
+[30-Apr-2026 18:10:57 UTC] Recent absensi count: 2
+[30-Apr-2026 18:11:14 UTC] Total absensi di database: 2
+[30-Apr-2026 18:11:14 UTC] Total absensi hari ini (2026-04-30): 0
+[30-Apr-2026 18:11:14 UTC] Data absensi: Array
+(
+    [0] => Array
+        (
+            [id_absensi] => 1
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 3
+            [waktu_absen] => 2026-05-01 00:13:59
+            [foto_selfie] => selfie_20260501_001359_69f38dd718a1f.jpg
+            [lokasi_gps] => -7.859832,113.282982
+            [status] => hadir
+        )
+
+    [1] => Array
+        (
+            [id_absensi] => 2
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 1
+            [waktu_absen] => 2026-05-01 01:00:42
+            [foto_selfie] => selfie_20260501_010042_69f398ca0f9b9.jpg
+            [lokasi_gps] => -7.8595994,113.2827956
+            [status] => hadir
+        )
+
+)
+
+[30-Apr-2026 18:11:14 UTC] Stats hari ini: Array
+(
+    [hadir] => 0
+    [telat] => 0
+    [alfa] => 0
+    [total_absen] => 0
+    [unique_guru] => 0
+)
+
+[30-Apr-2026 18:11:14 UTC] Absensi per jam: Array
+(
+    [0] => Array
+        (
+            [jam_ke] => 1
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:40:00
+            [jumlah_absen] => 0
+        )
+
+    [1] => Array
+        (
+            [jam_ke] => 2
+            [jam_mulai] => 21:20:00
+            [jam_selesai] => 22:20:00
+            [jumlah_absen] => 0
+        )
+
+    [2] => Array
+        (
+            [jam_ke] => 3
+            [jam_mulai] => 00:00:00
+            [jam_selesai] => 01:00:00
+            [jumlah_absen] => 0
+        )
+
+    [3] => Array
+        (
+            [jam_ke] => 4
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:00:00
+            [jumlah_absen] => 0
+        )
+
+)
+
+[30-Apr-2026 18:11:14 UTC] Recent absensi count: 2
+[30-Apr-2026 18:17:19 UTC] Total absensi di database: 2
+[30-Apr-2026 18:17:19 UTC] Total absensi hari ini (2026-04-30): 0
+[30-Apr-2026 18:17:19 UTC] Data absensi: Array
+(
+    [0] => Array
+        (
+            [id_absensi] => 1
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 3
+            [waktu_absen] => 2026-05-01 00:13:59
+            [foto_selfie] => selfie_20260501_001359_69f38dd718a1f.jpg
+            [lokasi_gps] => -7.859832,113.282982
+            [status] => hadir
+        )
+
+    [1] => Array
+        (
+            [id_absensi] => 2
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 1
+            [waktu_absen] => 2026-05-01 01:00:42
+            [foto_selfie] => selfie_20260501_010042_69f398ca0f9b9.jpg
+            [lokasi_gps] => -7.8595994,113.2827956
+            [status] => hadir
+        )
+
+)
+
+[30-Apr-2026 18:17:19 UTC] Stats hari ini: Array
+(
+    [hadir] => 0
+    [telat] => 0
+    [alfa] => 0
+    [total_absen] => 0
+    [unique_guru] => 0
+)
+
+[30-Apr-2026 18:17:19 UTC] Absensi per jam: Array
+(
+    [0] => Array
+        (
+            [jam_ke] => 1
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:40:00
+            [jumlah_absen] => 0
+        )
+
+    [1] => Array
+        (
+            [jam_ke] => 2
+            [jam_mulai] => 21:20:00
+            [jam_selesai] => 22:20:00
+            [jumlah_absen] => 0
+        )
+
+    [2] => Array
+        (
+            [jam_ke] => 3
+            [jam_mulai] => 00:00:00
+            [jam_selesai] => 01:00:00
+            [jumlah_absen] => 0
+        )
+
+    [3] => Array
+        (
+            [jam_ke] => 4
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:00:00
+            [jumlah_absen] => 0
+        )
+
+)
+
+[30-Apr-2026 18:17:19 UTC] Recent absensi count: 2
+[30-Apr-2026 18:17:44 UTC] Total absensi di database: 2
+[30-Apr-2026 18:17:44 UTC] Total absensi hari ini (2026-04-30): 0
+[30-Apr-2026 18:17:44 UTC] Data absensi: Array
+(
+    [0] => Array
+        (
+            [id_absensi] => 1
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 3
+            [waktu_absen] => 2026-05-01 00:13:59
+            [foto_selfie] => selfie_20260501_001359_69f38dd718a1f.jpg
+            [lokasi_gps] => -7.859832,113.282982
+            [status] => hadir
+        )
+
+    [1] => Array
+        (
+            [id_absensi] => 2
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 1
+            [waktu_absen] => 2026-05-01 01:00:42
+            [foto_selfie] => selfie_20260501_010042_69f398ca0f9b9.jpg
+            [lokasi_gps] => -7.8595994,113.2827956
+            [status] => hadir
+        )
+
+)
+
+[30-Apr-2026 18:17:44 UTC] Stats hari ini: Array
+(
+    [hadir] => 0
+    [telat] => 0
+    [alfa] => 0
+    [total_absen] => 0
+    [unique_guru] => 0
+)
+
+[30-Apr-2026 18:17:44 UTC] Absensi per jam: Array
+(
+    [0] => Array
+        (
+            [jam_ke] => 1
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:40:00
+            [jumlah_absen] => 0
+        )
+
+    [1] => Array
+        (
+            [jam_ke] => 2
+            [jam_mulai] => 21:20:00
+            [jam_selesai] => 22:20:00
+            [jumlah_absen] => 0
+        )
+
+    [2] => Array
+        (
+            [jam_ke] => 3
+            [jam_mulai] => 00:00:00
+            [jam_selesai] => 01:00:00
+            [jumlah_absen] => 0
+        )
+
+    [3] => Array
+        (
+            [jam_ke] => 4
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:00:00
+            [jumlah_absen] => 0
+        )
+
+)
+
+[30-Apr-2026 18:17:44 UTC] Recent absensi count: 2
+[30-Apr-2026 18:18:46 UTC] Total absensi di database: 2
+[30-Apr-2026 18:18:46 UTC] Total absensi hari ini (2026-04-30): 0
+[30-Apr-2026 18:18:46 UTC] Data absensi: Array
+(
+    [0] => Array
+        (
+            [id_absensi] => 1
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 3
+            [waktu_absen] => 2026-05-01 00:13:59
+            [foto_selfie] => selfie_20260501_001359_69f38dd718a1f.jpg
+            [lokasi_gps] => -7.859832,113.282982
+            [status] => hadir
+        )
+
+    [1] => Array
+        (
+            [id_absensi] => 2
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 1
+            [waktu_absen] => 2026-05-01 01:00:42
+            [foto_selfie] => selfie_20260501_010042_69f398ca0f9b9.jpg
+            [lokasi_gps] => -7.8595994,113.2827956
+            [status] => hadir
+        )
+
+)
+
+[30-Apr-2026 18:18:46 UTC] Stats hari ini: Array
+(
+    [hadir] => 0
+    [telat] => 0
+    [alfa] => 0
+    [total_absen] => 0
+    [unique_guru] => 0
+)
+
+[30-Apr-2026 18:18:46 UTC] Absensi per jam: Array
+(
+    [0] => Array
+        (
+            [jam_ke] => 1
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:40:00
+            [jumlah_absen] => 0
+        )
+
+    [1] => Array
+        (
+            [jam_ke] => 2
+            [jam_mulai] => 21:20:00
+            [jam_selesai] => 22:20:00
+            [jumlah_absen] => 0
+        )
+
+    [2] => Array
+        (
+            [jam_ke] => 3
+            [jam_mulai] => 00:00:00
+            [jam_selesai] => 01:00:00
+            [jumlah_absen] => 0
+        )
+
+    [3] => Array
+        (
+            [jam_ke] => 4
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:00:00
+            [jumlah_absen] => 0
+        )
+
+)
+
+[30-Apr-2026 18:18:46 UTC] Recent absensi count: 2
+[30-Apr-2026 18:19:05 UTC] Total absensi di database: 2
+[30-Apr-2026 18:19:05 UTC] Total absensi hari ini (2026-04-30): 0
+[30-Apr-2026 18:19:05 UTC] Data absensi: Array
+(
+    [0] => Array
+        (
+            [id_absensi] => 1
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 3
+            [waktu_absen] => 2026-05-01 00:13:59
+            [foto_selfie] => selfie_20260501_001359_69f38dd718a1f.jpg
+            [lokasi_gps] => -7.859832,113.282982
+            [status] => hadir
+        )
+
+    [1] => Array
+        (
+            [id_absensi] => 2
+            [id_guru] => 8
+            [tanggal] => 2026-05-01
+            [jam_ke] => 1
+            [waktu_absen] => 2026-05-01 01:00:42
+            [foto_selfie] => selfie_20260501_010042_69f398ca0f9b9.jpg
+            [lokasi_gps] => -7.8595994,113.2827956
+            [status] => hadir
+        )
+
+)
+
+[30-Apr-2026 18:19:05 UTC] Stats hari ini: Array
+(
+    [hadir] => 0
+    [telat] => 0
+    [alfa] => 0
+    [total_absen] => 0
+    [unique_guru] => 0
+)
+
+[30-Apr-2026 18:19:05 UTC] Absensi per jam: Array
+(
+    [0] => Array
+        (
+            [jam_ke] => 1
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:40:00
+            [jumlah_absen] => 0
+        )
+
+    [1] => Array
+        (
+            [jam_ke] => 2
+            [jam_mulai] => 21:20:00
+            [jam_selesai] => 22:20:00
+            [jumlah_absen] => 0
+        )
+
+    [2] => Array
+        (
+            [jam_ke] => 3
+            [jam_mulai] => 00:00:00
+            [jam_selesai] => 01:00:00
+            [jumlah_absen] => 0
+        )
+
+    [3] => Array
+        (
+            [jam_ke] => 4
+            [jam_mulai] => 01:00:00
+            [jam_selesai] => 02:00:00
+            [jumlah_absen] => 0
+        )
+
+)
+
+[30-Apr-2026 18:19:05 UTC] Recent absensi count: 2
+[30-Apr-2026 18:37:44 UTC] PHP Notice:  Undefined index: thead in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 16732
+[30-Apr-2026 18:37:59 UTC] PHP Notice:  Undefined index: thead in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 16732
+[30-Apr-2026 18:46:19 UTC] PHP Notice:  Undefined index: thead in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 16732
+[30-Apr-2026 19:31:48 UTC] PHP Notice:  Undefined index: thead in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 16732
+[01-May-2026 05:19:00 UTC] PHP Notice:  Undefined index: thead in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 16732
+[01-May-2026 05:43:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/demoabse/gtk.demoabsensiviraly.my.id/admin/download_gaji_pdf.php on line 243
+[01-May-2026 05:43:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/demoabse/gtk.demoabsensiviraly.my.id/admin/download_gaji_pdf.php on line 243
+[01-May-2026 05:53:55 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/demoabse/gtk.demoabsensiviraly.my.id/admin/download_gaji_pdf.php on line 137
+[01-May-2026 05:54:05 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/demoabse/gtk.demoabsensiviraly.my.id/admin/download_gaji_pdf.php on line 137
+[01-May-2026 05:54:09 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/demoabse/gtk.demoabsensiviraly.my.id/admin/download_gaji_pdf.php on line 137
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined index: cols in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 17172
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined index: thead in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 16732
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacingx in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18380
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: table_columns_width in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18435
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacing in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18447
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacing in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18473
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacingx in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18528
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacingx in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18382
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: table_columns_width in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18435
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacing in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18447
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacing in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18473
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacingx in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18528
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacingx in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18382
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: table_columns_width in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18435
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacing in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18447
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacing in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18473
+[01-May-2026 06:00:50 UTC] PHP Notice:  Undefined variable: cellspacingx in /home/demoabse/gtk.demoabsensiviraly.my.id/TCPDF/tcpdf.php on line 18528
